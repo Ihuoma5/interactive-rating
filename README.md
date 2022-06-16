@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Ihuoma5/interactive-rating)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/Ihuoma5/interactive-rating)
+- Live Site URL: [live site URL](https://app.netlify.com/sites/interactive-rating-ihuoma/overview)
 
 ## My process
 
